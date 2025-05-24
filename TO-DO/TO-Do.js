@@ -1,6 +1,6 @@
 $("#btn").click(function () {
   let task = $("#input").val().trim();
-  if (task !== "") {
+  if (task !== "")  {
     let html = `<li>${task} <button class=edit>Edit</button> <button id="close">X</button></li>`;
     $("#ul").append(html);
     // $("#ul").append(html2);
