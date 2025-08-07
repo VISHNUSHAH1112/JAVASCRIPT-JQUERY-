@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: Arial, sans-serif;
     background: #f0f0f0;
@@ -59,3 +58,4 @@ body {
 #prev:hover, #next:hover {
     background-color: rgba(0,0,0,0.3);
 }
+
